@@ -55,11 +55,12 @@ textarea {
 
 
 .text {
-   
+    text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: purple;
-    padding: 5px;
+   
 }
+
 
 #nav:hover {
     /* Start the shake animation and make the animation last for 0.5 seconds */

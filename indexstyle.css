@@ -34,19 +34,23 @@ body {
 
 }
 
-#nav {
-    padding: 20px;
-}
+
 .row::after {
     clear: both;
     display: inline-table;
 }
 
+#nav {
+    align-items: center;
+
+}
 .text {
+   
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: purple;
-    padding: 5px;
+    font-size: 16px;
+   
 }
 
 #nav:hover {
