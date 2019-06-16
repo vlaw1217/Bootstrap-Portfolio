@@ -15,6 +15,7 @@ h1 {
     font-size: 40px;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
 
 }
 
@@ -22,7 +23,6 @@ h2 {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
 
 
 p {
@@ -44,12 +44,15 @@ p::first-letter {
     color: purple;
     padding: 10px;
     size: 14px;
+    margin-right:50px;
+   
+   
     
 }
 
 
 
-#nav:hover {
+.nav:hover {
     /* Start the shake animation and make the animation last for 0.5 seconds */
   animation: shake 0.5s; 
 

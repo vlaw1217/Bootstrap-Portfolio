@@ -11,7 +11,7 @@ body {
 }
 
 .header {
-    background-image: url("/Users/vickylaw/Desktop/Assignments/Week01/Basic-Portfolio/assets/Others/images/background8.jpg");
+    background-image: url("../img/background8.jpg");
     background-position: bottom;
     background-repeat: no-repeat;
     height: 600px;
@@ -24,7 +24,7 @@ body {
    
 }
 
-h2 {
+.contact {
     clear: both;
     font-size: 40px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -62,7 +62,7 @@ textarea {
 }
 
 
-#nav:hover {
+.nav:hover {
     /* Start the shake animation and make the animation last for 0.5 seconds */
   animation: shake 0.5s; 
 
